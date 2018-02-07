@@ -6,3 +6,4 @@ categories: jekyll update
 ---
 
 my projects
+{% include image.html url="/img/aylinpic.jpg" description="is me" %}
