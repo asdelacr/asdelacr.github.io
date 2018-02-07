@@ -8,4 +8,4 @@ permalink: /CV/
 
 This is my CV
 
-![aylin-pic](/path/to/aylinpic.png){:class="img-responsive"}
+{% include image.html url="/images/aylinpic.png" description="This is me" %}
