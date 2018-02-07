@@ -7,13 +7,14 @@
 
 # Site settings
 title: Aylin Delacruz
-email: your-email@domain.com
+email: asdelacruz.94@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello World!
+  Here on my website, I have examples of my previous projects, blogs, 
+  and information about myself, my interests, and past experiences.
+  Check out my most recent project: www.tuckerstemple.com 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://aylindelacruz.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
