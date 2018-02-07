@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Hello
+<!-- this is actually the About me page-->
