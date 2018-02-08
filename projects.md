@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- this is actually the About me page-->
-{% <h3> hi </h3> %}
+{.% <h3> hi </h3> %}
 
 hello 
 
