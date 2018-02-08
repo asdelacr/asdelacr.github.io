@@ -5,5 +5,8 @@ permalink: /about/
 ---
 
 <!-- this is actually the About me page-->
+{% <h3> hi </h3> %}
+
+hello 
 
 {% include image.html url="/img/aylinpic.jpg" description="is me" %}

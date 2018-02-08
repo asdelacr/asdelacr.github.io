@@ -27,4 +27,4 @@ But if you are just looking to attack me because I said “I feel women are unde
 
 Enjoy!
 
-{% include image.html url="/img/backgroundphoto.jpg" description="is me" %}
+{% include image.html url="/img/backgroundphoto.jpg" description="" %}
