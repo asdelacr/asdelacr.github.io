@@ -7,4 +7,6 @@ permalink: /CV/
 
 <!-- this is the CV page-->
 
-This is my CV
+{% include image.html url="/img/cv1.jpg" description="   " %}
+
+{% include image.html url="/img/cv2.jpg" description="   " %}
