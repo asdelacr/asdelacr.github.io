@@ -6,6 +6,8 @@ permalink: /about/
 
 <!-- this is actually the About me page-->
 
+{% include image.html url="/img/aylinpic.jpg" description="Hello, it's me..." %}
+
 Well, Hello there.
 
 My name is Aylin Delacruz ( phonetic spelling: I-LEAN DE-LA-CRUISE ), and Welcome to my Website! 
@@ -17,6 +19,15 @@ I am always looking for my next big opportunity and finding a career that explor
 But, let me start from the beginning...
 
 ____________________________________________________________________________________________
+
+{% include image.html url="/img/meat16.jpg" description="Baby(ish) Aylin" %}
+
+My full name is Aylin Selena Delacruz. I was born April 3rd at the very early hours of Easter Sunday. I am American, though culturally, I identify as Turkish and Mexican. Weird combination, I know, but I embrace uniqueness.
+
+{% include image.html url="/img/humor.jpg" description="My kind of Humor" %}
+
+____________________________________________________________________________________________
+
 
 I grew up right in the heart of the East Bay Area in Northern California.
 At a very early age, I was introduced to science and technology through my Engineer parents.
@@ -30,11 +41,33 @@ But at my core, I am a problem solver, and finding solutions to existing or aris
 
 ____________________________________________________________________________________________
 
+My hobbies include playing video games, eating good food, and traveling the world. I have been to more countries than states, and I feel most at home swimming in the calm sea. 
+
+{% include image.html url="/img/istanbuladasi.jpg" description="A view of Istanbul" %}
+
+{% include image.html url="/img/coffeecups.jpg" description="My favorite kind of Coffee" %}
+
+{% include image.html url="/img/forestpic.jpg" description="In a Mexican Tropic" %}
+
+{% include image.html url="/img/cunda.jpg" description="The Aegean Sea" %}
+
+{% include image.html url="/img/oceanview.jpg" description="Split Personalities" %}
+
+
+
+____________________________________________________________________________________________
+
 
 Ultimately, I went to UC Santa Cruz to study Computer Science: Computer Game Design. 
 What had appealed to me most about my major was the balance of design and technician. 
 I learned foundational technical skills like programming and computer engineering.
 I studied various design techniques and team-working skills necessary to build and release a product. 
+
+{% include image.html url="/img/slug.jpg" description="A Banana Slug" %}
+
+{% include image.html url="/img/gardenofeden.jpg" description="A secret spot on Campus" %}
+
+{% include image.html url="/img/gradcap.jpg" description="Game Majors make the Best Grad Caps" %}
 
 
 ____________________________________________________________________________________________
@@ -47,4 +80,4 @@ Now, I want to use my 20+ years in Education (Yes, I started Pre-school when I w
 
 
 
-{% include image.html url="/img/aylinpic.jpg" description="Hello, it's me..." %}
+{% include image.html url="/img/backgroundphoto.jpg" description="" %}
