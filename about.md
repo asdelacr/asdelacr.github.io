@@ -4,6 +4,8 @@ title: My Projects
 permalink: /projects/
 ---
 
+{% include image.html url="/img/TT-Logo.jpg" description="" %}
+
 Tucker's Temple (2017) 
 
 iOS: https://itunes.apple.com/us/app/tuckers-temple/id1245972422?mt=8
@@ -37,6 +39,23 @@ Voice Actors:
 - Nicole Maines
 - Taylor Reyland
 - Aliya Cacanindin
+
+
+{% include image.html url="/img/tt-1.jpg" description="" %}
+
+{% include image.html url="/img/tt-2.jpg" description="" %}
+
+{% include image.html url="/img/tt-3.jpg" description="" %}
+
+{% include image.html url="/img/tt-4.jpg" description="" %}
+
+{% include image.html url="/img/tt-5.jpg" description="" %}
+
+{% include image.html url="/img/tt-6.jpg" description="" %}
+
+{% include image.html url="/img/tt-7.jpg" description="" %}
+
+{% include image.html url="/img/tt-8.jpg" description="" %}
 ---------------------------------------------------------------------------------------------------
 
 
