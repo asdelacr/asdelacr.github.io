@@ -20,7 +20,7 @@ But, let me start from the beginning...
 
 ____________________________________________________________________________________________
 
-{% include image.html url="/img/meat16.jpg" description="Baby(ish) Aylin" %}
+{% include image.html url="/img/meat16.jpg" description="" %}
 
 My full name is Aylin Selena Delacruz. I was born April 3rd at the very early hours of Easter Sunday. I am American, though culturally, I identify as Turkish and Mexican. Weird combination, I know, but I embrace uniqueness.
 
@@ -58,6 +58,8 @@ My hobbies include playing video games, eating good food, and traveling the worl
 ____________________________________________________________________________________________
 
 
+Education: 
+
 Ultimately, I went to UC Santa Cruz to study Computer Science: Computer Game Design. 
 What had appealed to me most about my major was the balance of design and technician. 
 I learned foundational technical skills like programming and computer engineering.
@@ -71,6 +73,8 @@ I studied various design techniques and team-working skills necessary to build a
 
 
 ____________________________________________________________________________________________
+
+And Now?
 
 Now, I want to use my 20+ years in Education (Yes, I started Pre-school when I was 2 and a half) to utilize my knowledge, skills, and experience to be part of a society that nurtures its inhabitants and continues to build for a future in mind. 
 
