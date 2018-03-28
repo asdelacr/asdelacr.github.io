@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 My full name is Aylin Selena Delacruz. I was born April 3rd at the very early hours of Easter Sunday. I am American, though culturally, I identify as Turkish and Mexican. Weird combination, I know, but I embrace uniqueness.
 
-{% include image.html url="/img/humor.jpg" description="My kind of Humor" %}
+{% include image.html url="/img/humor.jpg" description="" %}
 
 ____________________________________________________________________________________________
 
