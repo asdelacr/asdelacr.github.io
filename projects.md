@@ -8,6 +8,8 @@ permalink: /about/
 
 {% include image.html url="/img/aylinpic.jpg" description="Hello, it's me..." %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 Well, Hello there.
 
 My name is Aylin Delacruz ( phonetic spelling: I-LEAN DE-LA-CRUISE ), and Welcome to my Website! 
@@ -17,6 +19,8 @@ I am a game lover, technology enthusiast, and secret holder of the Triforce of W
 I am always looking for my next big opportunity and finding a career that explores all bound of what tech can accomplish! I enjoy meeting new people, working on teams and developing novel projects. 
 
 But, let me start from the beginning...
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 ____________________________________________________________________________________________
 
@@ -28,6 +32,7 @@ My full name is Aylin Selena Delacruz. I was born April 3rd at the very early ho
 
 ____________________________________________________________________________________________
 
+{% include image.html url="/img/humor.jpg" description="" %}
 
 I grew up right in the heart of the East Bay Area in Northern California.
 At a very early age, I was introduced to science and technology through my Engineer parents.
@@ -39,7 +44,11 @@ When it came to thinking about the future and what I wanted to do, I was often c
 
 But at my core, I am a problem solver, and finding solutions to existing or arising issues is what I aspire to do in this life. 
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 ____________________________________________________________________________________________
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 My hobbies include playing video games, eating good food, and traveling the world. I have been to more countries than states, and I feel most at home swimming in the calm sea. 
 
