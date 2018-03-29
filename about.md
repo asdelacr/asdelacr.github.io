@@ -56,17 +56,31 @@ Voice Actors:
 
 {% include image.html url="/img/tt-2.jpg" description="" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/tt-3.jpg" description="" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 {% include image.html url="/img/tt-4.jpg" description="" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/tt-5.jpg" description="" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 {% include image.html url="/img/tt-6.jpg" description="" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/tt-7.jpg" description="" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/tt-8.jpg" description="" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 ---------------------------------------------------------------------------------------------------
 
 
