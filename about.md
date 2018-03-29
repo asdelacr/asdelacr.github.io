@@ -4,9 +4,9 @@ title: Recent Projects
 permalink: /projects/
 ---
 
-{% include image.html url="/img/TT-Logo.jpg" description="" %}
+{% include image.html url="/img/TT-Logo.jpg" description="Tucker's Temple (2017)" %}
 
-Tucker's Temple (2017) 
+{% include image.html url="/img/humor.jpg" description="" %} 
 
 iOS: https://itunes.apple.com/us/app/tuckers-temple/id1245972422?mt=8
 
@@ -14,11 +14,18 @@ Android: https://play.google.com/store/apps/details?id=com.T3.TuckersTemple&hl=e
 
 Website: http://tuckerstemple.com/
 
+{% include image.html url="/img/humor.jpg" description="" %}
 ---------------------------------------------------------------------------------------------------
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 Genre: Mobile Puzzle Game
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 Description: Tucker's Temple is a cross platform game app for iOS and Android made in Unity. Tucker’s Temple is a mobile puzzle game where players rearrange the map to guide their characters to the goal. The game follows the story of the three Tucker siblings and their pet bear, who delve into a cursed temple looking for their father. Instead of controlling a character, the player swipes rows and columns of the map to change the layout of pathways. After each player move, all the characters move once in predictable ways. The player must guide characters through the map, keeping them safe from danger.
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 Developers:                                                
 - Andrew Cousins                                    
@@ -40,8 +47,12 @@ Voice Actors:
 - Taylor Reyland
 - Aliya Cacanindin
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 
 {% include image.html url="/img/tt-1.jpg" description="" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 {% include image.html url="/img/tt-2.jpg" description="" %}
 
