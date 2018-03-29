@@ -49,16 +49,25 @@ My hobbies include playing video games, eating good food, and traveling the worl
 
 {% include image.html url="/img/coffeecups.jpg" description="My favorite kind of Coffee" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/forestpic.jpg" description="In a Mexican Tropic" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 {% include image.html url="/img/cunda.jpg" description="The Aegean Sea" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/oceanview.jpg" description="Split Personalities" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 
 
 ____________________________________________________________________________________________
 
+{% include image.html url="/img/humor.jpg" description="" %}
 
 Education: 
 
@@ -67,20 +76,30 @@ What had appealed to me most about my major was the balance of design and techni
 I learned foundational technical skills like programming and computer engineering.
 I studied various design techniques and team-working skills necessary to build and release a product. 
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/slug.jpg" description="A Banana Slug" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 {% include image.html url="/img/gardenofeden.jpg" description="A secret spot on Campus" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/gradcap.jpg" description="Game Majors make the Best Grad Caps" %}
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 
 ____________________________________________________________________________________________
+
+{% include image.html url="/img/humor.jpg" description="" %}
 
 And Now?
 
 Now, I want to use my 20+ years in Education (Yes, I started Pre-school when I was 2 and a half) to utilize my knowledge, skills, and experience to be part of a society that nurtures its inhabitants and continues to build for a future in mind. 
 
-
+{% include image.html url="/img/humor.jpg" description="" %}
 
 
 
