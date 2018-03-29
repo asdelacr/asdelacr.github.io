@@ -45,6 +45,8 @@ My hobbies include playing video games, eating good food, and traveling the worl
 
 {% include image.html url="/img/istanbuladasi.jpg" description="A view of Istanbul" %}
 
+{% include image.html url="/img/humor.jpg" description="" %}
+
 {% include image.html url="/img/coffeecups.jpg" description="My favorite kind of Coffee" %}
 
 {% include image.html url="/img/forestpic.jpg" description="In a Mexican Tropic" %}
